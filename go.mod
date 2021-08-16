@@ -19,7 +19,7 @@ require (
 	k8s.io/kubernetes v1.21.1
 	kmodules.xyz/client-go v0.0.0-20210816193105-1158390a19cd
 	kmodules.xyz/custom-resources v0.0.0-20210812193424-1631fae03a1a
-	kubedb.dev/apimachinery v0.19.1-0.20210816213826-3327d4c103df
+	kubedb.dev/apimachinery v0.19.1-0.20210816222338-a3581bc6b269
 )
 
 replace go.mongodb.org/mongo-driver => github.com/appscode/mongo-go-driver v1.4.0-beta2.0.20210223075318-951c8933c59c
