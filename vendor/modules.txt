@@ -135,7 +135,6 @@ github.com/inconshreveable/mousetrap
 # github.com/jmespath/go-jmespath v0.4.0
 github.com/jmespath/go-jmespath
 # github.com/json-iterator/go v1.1.11
-## explicit
 github.com/json-iterator/go
 # github.com/klauspost/compress v1.9.5
 github.com/klauspost/compress/fse
@@ -349,7 +348,6 @@ gomodules.xyz/pointer
 ## explicit
 gomodules.xyz/runtime
 # gomodules.xyz/sets v0.2.0
-## explicit
 gomodules.xyz/sets
 # gomodules.xyz/wait v0.0.0-20210218105358-639bd9211545
 gomodules.xyz/wait
@@ -920,7 +918,7 @@ k8s.io/utils/net
 k8s.io/utils/path
 k8s.io/utils/pointer
 k8s.io/utils/trace
-# kmodules.xyz/client-go v0.0.0-20210816181051-625868881acd
+# kmodules.xyz/client-go v0.0.0-20210816193105-1158390a19cd
 ## explicit
 kmodules.xyz/client-go
 kmodules.xyz/client-go/api/v1
@@ -947,9 +945,8 @@ kmodules.xyz/custom-resources/crds
 # kmodules.xyz/monitoring-agent-api v0.0.0-20210618110729-9cd872c66513
 kmodules.xyz/monitoring-agent-api/api/v1
 # kmodules.xyz/offshoot-api v0.0.0-20210804100837-d0388be3e60d
-## explicit
 kmodules.xyz/offshoot-api/api/v1
-# kubedb.dev/apimachinery v0.19.1-0.20210816164326-d5e158ef832d
+# kubedb.dev/apimachinery v0.19.1-0.20210816203511-5465bfd48209
 ## explicit
 kubedb.dev/apimachinery/apis
 kubedb.dev/apimachinery/apis/autoscaling
