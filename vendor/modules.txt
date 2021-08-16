@@ -946,7 +946,7 @@ kmodules.xyz/custom-resources/crds
 kmodules.xyz/monitoring-agent-api/api/v1
 # kmodules.xyz/offshoot-api v0.0.0-20210804100837-d0388be3e60d
 kmodules.xyz/offshoot-api/api/v1
-# kubedb.dev/apimachinery v0.19.1-0.20210816222338-a3581bc6b269
+# kubedb.dev/apimachinery v0.19.1-0.20210816225014-a8eb885ccaa2
 ## explicit
 kubedb.dev/apimachinery/apis
 kubedb.dev/apimachinery/apis/autoscaling
