@@ -348,6 +348,7 @@ gomodules.xyz/pointer
 ## explicit
 gomodules.xyz/runtime
 # gomodules.xyz/sets v0.2.0
+## explicit
 gomodules.xyz/sets
 # gomodules.xyz/wait v0.0.0-20210218105358-639bd9211545
 gomodules.xyz/wait
@@ -942,12 +943,11 @@ kmodules.xyz/custom-resources/apis/metrics
 kmodules.xyz/custom-resources/apis/metrics/v1alpha1
 kmodules.xyz/custom-resources/client/clientset/versioned/scheme
 kmodules.xyz/custom-resources/crds
-# kmodules.xyz/monitoring-agent-api v0.0.0-20210827175850-d00b079c067b
-## explicit
+# kmodules.xyz/monitoring-agent-api v0.0.0-20210828012421-78a792a84818
 kmodules.xyz/monitoring-agent-api/api/v1
 # kmodules.xyz/offshoot-api v0.0.0-20210804100837-d0388be3e60d
 kmodules.xyz/offshoot-api/api/v1
-# kubedb.dev/apimachinery v0.19.1-0.20210816225014-a8eb885ccaa2
+# kubedb.dev/apimachinery v0.20.1-0.20210828012852-356e942f35d1
 ## explicit
 kubedb.dev/apimachinery/apis
 kubedb.dev/apimachinery/apis/autoscaling

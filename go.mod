@@ -10,6 +10,7 @@ require (
 	go.mongodb.org/mongo-driver v1.1.2
 	gomodules.xyz/logs v0.0.4
 	gomodules.xyz/runtime v0.2.0
+	gomodules.xyz/sets v0.2.0 // indirect
 	gomodules.xyz/x v0.0.7
 	k8s.io/api v0.21.1
 	k8s.io/apimachinery v0.21.1
@@ -19,8 +20,7 @@ require (
 	k8s.io/kubernetes v1.21.1
 	kmodules.xyz/client-go v0.0.0-20210827153326-54ead9c6225f
 	kmodules.xyz/custom-resources v0.0.0-20210824055127-e5a3d2d6c161
-	kmodules.xyz/monitoring-agent-api v0.0.0-20210827175850-d00b079c067b // indirect
-	kubedb.dev/apimachinery v0.19.1-0.20210816225014-a8eb885ccaa2
+	kubedb.dev/apimachinery v0.20.1-0.20210828012852-356e942f35d1
 )
 
 replace go.mongodb.org/mongo-driver => github.com/appscode/mongo-go-driver v1.4.0-beta2.0.20210223075318-951c8933c59c
