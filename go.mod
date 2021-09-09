@@ -20,7 +20,7 @@ require (
 	kmodules.xyz/client-go v0.0.0-20210909114628-15cac6c74063
 	kmodules.xyz/custom-resources v0.0.0-20210829135624-c63be82e13c0
 	kmodules.xyz/objectstore-api v0.0.0-20210829122106-d39859fc2d56 // indirect
-	kubedb.dev/apimachinery v0.20.1-0.20210909120507-76460f615ab2
+	kubedb.dev/apimachinery v0.21.0
 )
 
 replace go.mongodb.org/mongo-driver => github.com/appscode/mongo-go-driver v1.4.0-beta2.0.20210223075318-951c8933c59c
